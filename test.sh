@@ -22,3 +22,4 @@ test_escape_unescape a
 test_escape_unescape foo123
 test_escape_unescape Hello World
 test_escape_unescape " !@#$%^&*() "
+
